@@ -28,13 +28,13 @@ dados = [
         faixaEtaria: "Adulto",
         salarios: [1550, 1800, 3000, 25000],
         mediaSalarial: 7837.5,
-        maiorSalario: 24000
+        maiorSalario: 25000
     },
     {
         faixaEtaria: "Idoso",
         salarios: [150, 10000, 9900],
         mediaSalarial: 3300,
-        maiorSalario: 24000
+        maiorSalario: 9900
     }
 ]
 ```
