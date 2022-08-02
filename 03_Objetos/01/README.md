@@ -33,7 +33,7 @@ dados = [
     {
         faixaEtaria: "Idoso",
         salarios: [150, 10000, 9900],
-        mediaSalarial: 3300,
+        mediaSalarial: 20050,
         maiorSalario: 9900
     }
 ]
